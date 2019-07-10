@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Bruine Beren</title>
+</head>
+
+<body>
+  <nav>
+    <a href="./index.html">De bruine beer</a>
+    <a href="./aboutme.html">Over mij</a>
+  </nav>
+  <h1>De bruine beer</h1>
+  <nav>
+    <ul>
+      <li><a href="#introductie">Introductie</a></li>
+      <li><a href="#habitat">Habitat</a></li>
+      <li><a href="#media">Media</a></li>
+    </ul>
+  </nav>
+  <div id="introductie">
+    <h2>Over bruine beren</h2>
+    <p>De bruine beer <em> (Ursus arctos> </em> leeft vooral in Noord-Azië en Noord-Amerika. De beschermingsstatus is nu <strong> minst belangrijk </strong> <br><br /> 
+    Er zijn veel subsoorten, zoals de Atlas beer en de Himalayische bruine beer.</p>
+    <a href="https://en.wikipedia.org/wiki/Brown_bear" target="_blank">Meer weten</a>
+    <h3>Soorten</h3>
+    <ul>
+      <li>Arctos</li>
+      <li>Collarus</li>
+      <li>Horribilis</li>
+      <li>Nelsoni (extinct)</li>
+    </ul>
+    <h3>Kenmerken</h3>
+    <p>Bruine beren zijn niet altijd helemaal bruin. 
+    Sommige kunnen een beetje rood of geel zijn. 
+    Ze hebben grote, gebogen klauwen en reusachtige poten. 
+    Mannelijke bruine beren zijn meestal 30% langer dan vrouwelijk bruine beren. 
+    Ze kunnen tussen de 1,50m en de 2,70m lang zijn. </p>
+  </div>
+  <div id="habitat">
+    <h2>Habitat</h2>
+    <h3>Landen met grote bruine beer populaties</h3>
+    <ol>
+      <li>Rusland</li>
+      <li>Verenigde Staten</li>
+      <li>Canada</li>
+    </ol>
+    <h3>Landen met kleine bruine beer populaties</h3>
+    <p>Een paar landen met kleine bruine beer populaties zijn bijvoorbeeld Armenië, Wit-Rusland, Bulgarije, China, Finland, Frankijk, Griekenland, India, Japan, Nepal, Polen, Roemenië, Slovenië, Turkmenistan en Oezbekistan.</p>
+  </div>
+  <div id="media">
+    <h2>Media</h2>
+    <img src="https://s3.amazonaws.com/codecademy-content/courses/web-101/web101-image_brownbear.jpg" />
+    <video src="https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-1/lesson-2/htmlcss1-vid_brown-bear.mp4" height="240" width="320" controls>Video niet ondersteund</video>
+  </div>
+</body>
+
+</html>
